@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/christianvieux/TrackFusion-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/christianvieux/TrackFusion-Backend.git
