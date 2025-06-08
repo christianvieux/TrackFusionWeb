@@ -1,5 +1,15 @@
 # TrackFusionWeb - Music Streaming Platform
 
+> 📌 **Notice (June 8, 2025):**  
+> The live version of this website is currently **down and not working**. This is due to issues with the email service, domain, and database—mainly caused by non-payment, as I’m currently dealing with some financial constraints.  
+> I'm actively working on getting things back up and running as soon as possible.  
+> 
+> To any recruiters or visitors: I'm really sorry you’re not able to see the live version right now. I was genuinely looking forward to sharing this project with you because it's something I'm proud of. But at the moment, there's not much I can do until these service and billing issues are resolved.  
+> 
+> Thanks for understanding, and please feel free to check out the code in the meantime.
+
+---
+
 TrackFusionWeb is a modern streaming platform that enables users to discover, share, and analyze audio content. The application is split into two main components: frontend and backend services.
 
 ## Repository Structure
