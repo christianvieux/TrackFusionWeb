@@ -20,8 +20,8 @@ Access the live application [here](https://trackfusionweb.vercel.app/home).
 
 This repository serves as the main project hub and contains two sub-repositories:
 
-- `trackfusion-frontend`: Next.js web application handling the user interface and client-side operations
-- `trackfusion-backend`: Node.js server managing data processing and audio file operations
+- [`trackfusion-frontend`](https://github.com/christianvieux/TrackFusion-Frontend): Next.js web application handling the user interface and client-side operations  
+- [`trackfusion-backend`](https://github.com/christianvieux/TrackFusion-Backend): Node.js server managing data processing and audio file operations
 
 ## Technology Stack
 
