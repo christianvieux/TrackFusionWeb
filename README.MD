@@ -12,7 +12,7 @@
 
 TrackFusionWeb is a modern streaming platform that enables users to discover, share, and analyze audio content. The application is split into two main components: frontend and backend services.
 
-## Live Demo
+## 🌐 Live Demo
 
 Access the live application [here](https://trackfusionweb.vercel.app/home).
 
