@@ -14,7 +14,7 @@ TrackFusionWeb is a modern streaming platform that enables users to discover, sh
 
 ## Live Demo
 
-Access the live application: [TrackFusionWeb Platform](https://www.trackfusionweb.com/home)
+Access the live application [here](https://trackfusionweb.vercel.app/home).
 
 ## Repository Structure
 
