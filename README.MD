@@ -12,6 +12,10 @@
 
 TrackFusionWeb is a modern streaming platform that enables users to discover, share, and analyze audio content. The application is split into two main components: frontend and backend services.
 
+## Live Demo
+
+Access the live application: [TrackFusionWeb Platform](https://www.trackfusionweb.com/home)
+
 ## Repository Structure
 
 This repository serves as the main project hub and contains two sub-repositories:
@@ -32,10 +36,6 @@ This repository serves as the main project hub and contains two sub-repositories
 - Express.js
 - PostgreSQL
 - AWS S3 for audio storage
-
-## Live Demo
-
-Access the live application: [TrackFusionWeb Platform](https://www.trackfusionweb.com/home)
 
 ## Setup Instructions
 
